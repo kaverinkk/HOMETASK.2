@@ -1,0 +1,15 @@
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.csproj.AssemblyReference.cache
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.AssemblyInfoInputs.cache
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.AssemblyInfo.cs
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.csproj.CoreCompileInputs.cache
+C:\Users\Jane\Seminar03\MathTask002\bin\Debug\net6.0\MathTask002.exe
+C:\Users\Jane\Seminar03\MathTask002\bin\Debug\net6.0\MathTask002.deps.json
+C:\Users\Jane\Seminar03\MathTask002\bin\Debug\net6.0\MathTask002.runtimeconfig.json
+C:\Users\Jane\Seminar03\MathTask002\bin\Debug\net6.0\MathTask002.dll
+C:\Users\Jane\Seminar03\MathTask002\bin\Debug\net6.0\MathTask002.pdb
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.dll
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\refint\MathTask002.dll
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.pdb
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\MathTask002.genruntimeconfig.cache
+C:\Users\Jane\Seminar03\MathTask002\obj\Debug\net6.0\ref\MathTask002.dll

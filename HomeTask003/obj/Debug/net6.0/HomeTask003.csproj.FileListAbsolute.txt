@@ -1,0 +1,15 @@
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.csproj.AssemblyReference.cache
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.AssemblyInfoInputs.cache
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.AssemblyInfo.cs
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.csproj.CoreCompileInputs.cache
+C:\Users\Jane\Seminar03\HomeTask003\bin\Debug\net6.0\HomeTask003.exe
+C:\Users\Jane\Seminar03\HomeTask003\bin\Debug\net6.0\HomeTask003.deps.json
+C:\Users\Jane\Seminar03\HomeTask003\bin\Debug\net6.0\HomeTask003.runtimeconfig.json
+C:\Users\Jane\Seminar03\HomeTask003\bin\Debug\net6.0\HomeTask003.dll
+C:\Users\Jane\Seminar03\HomeTask003\bin\Debug\net6.0\HomeTask003.pdb
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.dll
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\refint\HomeTask003.dll
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.pdb
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\HomeTask003.genruntimeconfig.cache
+C:\Users\Jane\Seminar03\HomeTask003\obj\Debug\net6.0\ref\HomeTask003.dll
